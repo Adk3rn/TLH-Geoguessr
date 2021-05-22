@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/core/utils.js - Core Utils
  *

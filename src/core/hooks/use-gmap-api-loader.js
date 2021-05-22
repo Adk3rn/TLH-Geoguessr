@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/core/hooks/use-gmap-api-loader.js - Hook: useGMapAPILoader
  *

@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/store/game/actions/end-match.js - Game Store Action: end match
  *

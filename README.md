@@ -1,6 +1,6 @@
-# enigjewo
+# TLH-GeoGuessr
 
-> An open-source _remake_ of [**GeoGuessr**](https://www.geoguessr.com) based on [**enigjewo**](https://github.com/leny/enigjewo).
+> An open-source _remake_ of [**GeoGuessr**](https://www.geoguessr.com) based on [**TLH-GeoGuessr**](https://github.com/leny/Enigjewo).
 
 * * *
 

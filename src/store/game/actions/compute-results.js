@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/store/game/actions/compute-results.js - Game Store Action: compute results
  *

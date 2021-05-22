@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/containers/menu.js - Menu Container
  *
@@ -34,7 +34,7 @@ const MenuContainer = ({onPrepareGame, onJoinGame}) => {
                     "is-offset-one-quarter",
                 )}>
                 <div className={classnames("notification")}>
-                    <h1 className={"title"}>{"Enigjewo"}</h1>
+                    <h1 className={"title"}>{"TLH-GeoGuessr"}</h1>
                     <h2 className={"subtitle"}>{"A Geoguessr clone"}</h2>
 
                     <p>

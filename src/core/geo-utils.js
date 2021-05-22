@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/core/geo-utils.js - Core Geo Utils
  *

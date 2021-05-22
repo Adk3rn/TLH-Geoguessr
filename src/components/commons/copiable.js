@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/components/commons/copiable.js - Common Component: Copiable
  *

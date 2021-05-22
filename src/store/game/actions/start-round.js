@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/store/game/actions/start-round.js - Game Store Action: start round
  *

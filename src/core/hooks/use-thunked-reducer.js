@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/core/hooks/use-thunked-reducer.js - Custom hook: useThunkedReducer
  *

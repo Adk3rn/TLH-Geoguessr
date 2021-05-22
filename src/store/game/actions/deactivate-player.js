@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/store/game/actions/deactivate-player.js - Game Store Action: deactivate player
  *

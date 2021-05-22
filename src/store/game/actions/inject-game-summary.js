@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/store/game/actions/inject-game-summary.js - Game Store Action: inject game summary
  *

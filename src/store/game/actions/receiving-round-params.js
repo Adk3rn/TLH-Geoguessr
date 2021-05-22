@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/store/game/actions/receiving-round-params.js - Game Store Action: receiving round params
  *

@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/components/settings/duration.js - Settings Component: duration
  *

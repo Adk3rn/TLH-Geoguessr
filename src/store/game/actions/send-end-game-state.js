@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/store/game/actions/send-end-game-state.js - Game Store Action: send end game state
  *

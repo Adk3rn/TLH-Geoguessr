@@ -1,5 +1,5 @@
 {
-  "name": "enigjewo",
+  "name": "TLH-Geoguessr",
   "version": "0.8.1",
   "private": true,
   "description": "A _remake_ of **GeoGuessr** with React & Firebase",

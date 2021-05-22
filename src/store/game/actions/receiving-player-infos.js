@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/store/game/actions/receiving-player-infos.js - Game Store Action: receiving player infos
  *

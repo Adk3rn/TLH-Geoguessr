@@ -1,4 +1,4 @@
-/* leny/enigjewo
+/* leny/Enigjewo
  *
  * /src/components/commons/street-view.js - Common Component: Google StreetView
  *
